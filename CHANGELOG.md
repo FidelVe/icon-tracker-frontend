@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.15](https://github.com/sudoblockio/icon-tracker-frontend/compare/v0.2.14...v0.2.15) (2023-03-04)
+
+
+### Bug Fixes
+
+* token dropdown sort in addr info [#153](https://github.com/sudoblockio/icon-tracker-frontend/issues/153) ([c572b51](https://github.com/sudoblockio/icon-tracker-frontend/commit/c572b51230c9f78cda73eb10697d1df83ae1f10b))
+
 ## [0.2.14](https://github.com/sudoblockio/icon-tracker-frontend/compare/v0.2.13...v0.2.14) (2023-03-03)
 
 
